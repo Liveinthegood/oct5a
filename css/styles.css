@@ -1,0 +1,468 @@
+/* media query for desktop *//* media query for desktop *//* media query for desktop *//* media query for desktop */
+
+
+
+
+@media screen and (min-width:1024px) {
+
+    /*index page only */
+
+    /*nav bar section only start */
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      
+      }
+      
+      .navbar-brand {
+      font-family: "Ubuntu";
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 50px;
+      
+      }
+
+          /*nav bar section only end */
+
+
+
+.welcome{
+
+  text-align: center;
+  font-family: 'Road Rage', cursive;
+  font-size: 105px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: #FFC20E;
+  position: relative;
+
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+}
+
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+
+  }
+
+.player-title {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+  .picture {
+
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+  }
+
+  .pro {
+
+    text-decoration: underline;
+    color: red;
+  }
+
+  
+
+
+  /*footer section */
+
+
+  .footer3 {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    background-color: #FFC20E;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+
+}
+
+  /*players pages */
+
+  
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:50%;
+    width:50%;
+    float:left;
+  
+
+  }
+
+  .playersTitlename{
+
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 75px;
+    line-height: 1.5;
+    font-weight: 900;
+    padding-left: 50px;
+  
+
+
+  }
+
+
+
+  .player-text {
+
+    font-family: "Ubuntu";
+    color: #FFB612;
+    font-size: 45px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .namelocation{
+
+    font-size: 52px;
+    line-height: 1.5;
+    width:100%;
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+  }
+
+
+
+/* media query for tablet *//* media query for mobile *//* media query for tablet *//* media query for tablet */
+
+@media screen and (min-width:768px) and (max-width: 1023px) {
+
+
+
+      /*nav bar section only start */
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      
+      }
+      
+      .navbar-brand {
+      font-family: "Ubuntu";
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 50px;
+      
+      }
+
+          /*nav bar section only end */
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+
+  }
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+
+}
+
+.welcome{
+
+  text-align: center;
+  font-family: 'Road Rage', cursive;
+  font-size: 105px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: #FFC20E;
+  position: relative;
+
+}
+
+}
+
+.picture {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.player-title {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+.footer3 {
+
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  background-color: #FFC20E;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pro {
+
+  text-decoration: underline;
+  color: red;
+}
+
+
+/* media query for tablet *//* media query for mobile *//* media query for tablet *//* media query for mobile */
+
+@media screen and (max-width: 767px){
+
+  .pro {
+
+    text-decoration: underline;
+    color: red;
+  }
+
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+
+  }
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+}
+
+
+
+}
+
+
+
+/* media query for tablet *//* media query for mobile *//* media query for mobile *//* media query for mobile */
+
+@media screen and (min-width:320px) and (max-width: 480px) {
+
+    /*nav bar section only start */
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      
+      }
+      
+      .navbar-brand {
+      font-family: "Ubuntu";
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 120px;
+      
+      }
+
+          /*nav bar section only end */
+
+
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height:100%;
+    width:100%;
+  
+
+  }
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+
+  }
+
+  .meetplayers{
+
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+}
+
+
+
+}
+
+.welcome{
+
+  text-align: center;
+  font-family: 'Road Rage', cursive;
+  font-size: 105px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: #FFC20E;
+  position: relative;
+
+}
+
+.picture {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.player-title {
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+
+.footer3 {
+
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  background-color: #FFC20E;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
